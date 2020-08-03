@@ -2,12 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import First from './First';
+import FullStack from './FullStack';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render( <
-    First / > ,
-    document.getElementById('root')
+ReactDOM.render(
+ <FullStack/>,
+  document.getElementById('root')
 );
 
 // If you want your app to work offline and load faster, you can change
