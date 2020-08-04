@@ -16,7 +16,7 @@ class First extends React.Component {
             "obj": { "sub": "ReactJS" }
         };
     };
-
+    // we can not display an object directly in react so we need to first convert in string and then display
     render() {
         return (
             <div>
