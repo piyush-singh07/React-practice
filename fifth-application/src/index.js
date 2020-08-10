@@ -1,11 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import First from './First';
+import App from './App';
+import Mern from './Mern';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <First/>,
+  <Mern/>,
   document.getElementById('root')
 );
 
