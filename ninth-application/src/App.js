@@ -59,12 +59,8 @@ class App extends React.Component {
         </Table>
 
       </Container>
-
-
     )
-
   }
-
 };
 
 export default App;
